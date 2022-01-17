@@ -513,8 +513,12 @@
         position: relative;
         margin-bottom: 98px;
     }
-    .lappyImg{
-        width: 380px;
+       .laptop{
+        
+        display: block;
+        width: 80%;
+        margin: auto 0;
+    }
     }
     .lineIcon{
         position: absolute;
@@ -885,9 +889,12 @@
             font-size: 50px;
             width: 400px;
         }
-        .lappyImg{
-            width: 380px;
-        }
+    .laptop{
+        
+        display: block;
+        width: 80%;
+        margin: auto 0;
+    }
         .headerContent{
             display: flex;
             justify-content: center;
