@@ -82,10 +82,7 @@
         margin-top: 30px;
     }
     .laptop{
-        
-        display: block;
-        width: 80%;
-        margin: auto 0;
+        width:200px;
     }
     .laptop-container{
         margin-top: 80px;
@@ -889,9 +886,7 @@
         }
     .laptop{
         
-        display: block;
-        width: 80%;
-        margin: auto 0;
+       width: 300px;
     }
         .headerContent{
             display: flex;
