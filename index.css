@@ -82,7 +82,8 @@
         margin-top: 30px;
     }
     .laptop{
-        width:200px;
+        
+       width: 200px;
     }
     .laptop-container{
         margin-top: 80px;
@@ -510,10 +511,8 @@
         position: relative;
         margin-bottom: 98px;
     }
-       .laptop{
-        
-        width:300px;
-    }
+    .lappyImg{
+        width: 380px;
     }
     .lineIcon{
         position: absolute;
@@ -884,10 +883,9 @@
             font-size: 50px;
             width: 400px;
         }
-    .laptop{
-        
-       width: 300px;
-    }
+        .lappyImg{
+            width: 380px;
+        }
         .headerContent{
             display: flex;
             justify-content: center;
